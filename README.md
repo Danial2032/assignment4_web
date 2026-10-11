@@ -29,3 +29,5 @@ Task 4. Registration Form
 Summary:
 
 I used HTML5 validation such as minlength, required and I used Bootstrap validation like form class="was-validated" and div class="valid-feedback" and div class="invalid-feedback". Bootstrap grid was used to make my form responsive.
+
+Link: https://danial2032.github.io/assignment4_web/
