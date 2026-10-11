@@ -12,7 +12,7 @@
       <div class="card p-4 custom-card">
         <h2 class="mb-4 text-center fw-bold">Contact Us</h2>
 
-        <form action=#>
+        <form action=# class="needs-validation" novalidate>
 
           <div class="mb-3">
             <label for="contactName" class="form-label fw-semibold">Full Name</label>
@@ -21,7 +21,8 @@
           <div class="mb-3">
             <label for="contactEmail" class="form-label fw-semibold">Email Address</label>
             <input type="email" class="form-control" id="contactEmail" placeholder="Danial@example.com" required>
-            <div class="form-text">Email is safe</div>
+            <div class="valid-feedback">Looks good</div>
+            <div class="invalid-feedback">Enter a valid email</div>
           </div>
 
           <div class="mb-4">
